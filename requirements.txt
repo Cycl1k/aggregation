@@ -1,0 +1,4 @@
+pymongo==4.7.2
+python-dotenv==1.0.1
+python-dateutil==2.9.0.post0
+asyncio==3.4.3
